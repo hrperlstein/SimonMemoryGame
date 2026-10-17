@@ -26,9 +26,9 @@ Simon is a memory game where you repeat a sequence of flashing lights. When an L
 5. The game ends when an incorrect sequence is entered, signified by flashing lights
 
 ## Technologies Used
-Arduino Software coded in C++
+- Arduino Software coded in C++
 
-Arduino_AVRSTL library is necessary for the use of vectors (zip file is supplied)
+- Arduino_AVRSTL library is necessary for the use of vectors (zip file is supplied)
 
 ## Installation & Setup
 Wire your Arduino and breadboard as shown in the diagram:
@@ -40,7 +40,7 @@ Wire your Arduino and breadboard as shown in the diagram:
 Download the SimonMemoryGame.ino and Arduino zip file, upload it to your Arduino, and you're all set!
 
 ## Future Improvements
-Add an LCD screen that shows the high score and current score
+- Add an LCD screen that shows the high score and current score
 
 ## Author
 Harrison Perlstein
