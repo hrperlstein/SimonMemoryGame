@@ -4,15 +4,15 @@
 Simon is a memory game where you repeat a sequence of flashing lights. When an LED flashes, press the button with the matching color. Each round adds a new color to the sequence. In order to advance to the next round you must watch carefully and press the corresponding buttons in the same order the lights flash.
 
 ## Features
-Randomized color sequences
+- Randomized color sequences
 
-Interactive colored buttons and LED indicators
+- Interactive colored buttons and LED indicators
 
-Increasing difficulty with each round
+- Increasing difficulty with each round
 
-Memory and pattern recognition gameplay
+- Memory and pattern recognition gameplay
 
-Score and high score tracker within terminal
+- Score and high score tracker within terminal
 
 ## How to Play
 1. Watch the LED lights flash in sequence
@@ -30,7 +30,7 @@ Arduino Software coded in C++
 
 Arduino_AVRSTL library is necessary for the use of vectors (zip file is supplied)
 
-## Installation and Setup
+## Installation & Setup
 Wire your Arduino and breadboard as shown in the diagram:
 
 <img width="608" height="313" alt="Screenshot 2026-10-16 at 1 57 36 AM" src="https://github.com/user-attachments/assets/42e61b9b-0d3d-4b33-8cb8-048caf0e707e" />
