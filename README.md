@@ -40,7 +40,7 @@ Wire your Arduino and breadboard as shown in the diagram:
 Download the SimonMemoryGame.ino and Arduino zip file, upload it to your Arduino, and you're all set!
 
 ## Future Improvements
-Add an lcd screen that shows the high score and current score
+Add an LCD screen that shows the high score and current score
 
 ## Author
 Harrison Perlstein
